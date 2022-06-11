@@ -56,7 +56,9 @@ public class Main {
         }
         else if(one == two && two == three){
             System.out.println(one + " is the maximum, but all numbers are the same ");
-        }
+        }else{
+            System.out.printlin("A logic error occurred ");
+        }    
     }
 
     public static void validator(int one, int two, int three){
