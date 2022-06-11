@@ -30,6 +30,7 @@ public class Main {
         System.out.println("**********************");
         System.out.println("The max of three");
 
+        //Max of three and validator code
         maxOfThree(3,3,1);
         System.out.println();
         validator(3,3,1);
