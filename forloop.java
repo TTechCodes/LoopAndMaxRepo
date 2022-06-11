@@ -26,7 +26,7 @@ class ForLoop{
         System.out.println();
     }
 
-    //Even loop
+    //Odd loop
     protected void oddLoop() {
         for (int i = 0; i <= 1000; i++) {
             if (i % 2 == 1) {
